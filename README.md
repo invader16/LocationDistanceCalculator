@@ -2,6 +2,8 @@
 This sample calculates distance between two locations in kilometers.
 
 Use this dependency in your build.gradle file (app module)
+
+
 implementation 'com.invader.nomi.distcalculator:distcalculator:1.0.0'
 
 
