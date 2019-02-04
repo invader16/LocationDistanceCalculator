@@ -19,7 +19,7 @@ public class PlaceCoordinates {
         return myLongitude;
     }
 
-    public void setMuyLongitude(float myLongitude) {
+    public void setMyLongitude(float myLongitude) {
         this.myLongitude = myLongitude;
     }
 
