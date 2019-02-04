@@ -22,4 +22,4 @@ PlaceCoordinates destination = new PlaceCoordinates((float) 40.6892494, (float) 
 
 // distance between these two locations calculated using this method
 
-float distance = DistanceCalculator.calculateDist(starting,destaination);
+float distance = DistanceCalculator.calculateDist(starting,destination);
