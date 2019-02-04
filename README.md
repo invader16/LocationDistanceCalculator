@@ -8,7 +8,7 @@ This sample calculates distance between two locations in kilometers.
 Use this dependency in your build.gradle file (app module)
 
 
-	        implementation 'com.github.noumanjamil16:LocationDistanceCalculator:Tag'
+	        implementation 'com.github.noumanjamil16:LocationDistanceCalculator:1.0.0'
 
 
 
