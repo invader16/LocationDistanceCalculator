@@ -1,3 +1,7 @@
+
+[![](https://jitpack.io/v/noumanjamil16/LocationDistanceCalculator.svg)](https://jitpack.io/#noumanjamil16/LocationDistanceCalculator)
+
+
 # LocationDistanceCalculator
 This sample calculates distance between two locations in kilometers.
 
